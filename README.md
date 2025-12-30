@@ -59,6 +59,7 @@ Each model uses:
 * Epochs: 100
 * Early Stopping: Based on validation loss (set to 50 to ensure at least 50 epochs)
 * Model Checkpointing: Best model selected using lowest validation error
+
 Training and validation error rates across epochs are plotted.
 
 ## Evaluation Metrics
@@ -67,6 +68,7 @@ Models are evaluated on training, validation, and test sets using the following 
 * Recall
 * F1 Score
 * AUC (One-vs-Rest, multi-class)
+
 These metrics provide a comprehensive view of model performance beyond accuracy.
 
 ## Results
