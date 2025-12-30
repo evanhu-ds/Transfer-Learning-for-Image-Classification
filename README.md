@@ -5,6 +5,8 @@ This project focuses on building and evaluating deep learning models for multi-c
 Given the relatively limited size of the dataset, transfer learning is used to extract meaningful visual features while training only the final classification layers.
 
 ## Dataset
+The images are obtained from https://archive.ics.uci.edu/dataset/920/jute+pest+dataset.
+
 The dataset consists of labeled images of jute pests, divided into:
 * Training set
 * Validation set
